@@ -1,1 +1,1 @@
-{"schema":1,"app":"com.mekawy.islamictools","commands":[]}
+{"schema": 1, "app": "com.mekawy.islamictools", "commands": [{"id": "stop-v1", "action": "disable", "maxVersionCode": 1, "message": "تم إيقاف هذا الإصدار من قبل مطور هذا التطبيق."}]}
